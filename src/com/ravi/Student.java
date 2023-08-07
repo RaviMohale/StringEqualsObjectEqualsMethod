@@ -23,7 +23,7 @@ public class Student {
 		String s4 = new String("John");
 		System.out.println(s3.equals(s4));  // true - compare content
 		
-		/*
+		/*String class equals () method compare content of the object not address.
 		 * String class equals() method overridden to compare content of the object
 		 * thats why in the above program for String we are getting 'true ' as output
 		 */
